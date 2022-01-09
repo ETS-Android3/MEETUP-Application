@@ -1,0 +1,3 @@
+# MEETUP-Application
+Android application based on common interest
+MEETUP is an android application, which can help people to get so much information about their interest and can maintain a healthy social relation through instant messaging facility. MEETUP is combination of News application + Social Media application through which users can get all news according to their interest throughout the world.  Users can share their valuable knowledge with each other and able to share their feelings and emotion with friends via social media functionality. Users are able to make friends and able to talk with them. MEETUP is a simple application which will be easily adaptable by users as it is user friendly.
